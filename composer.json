@@ -1,0 +1,18 @@
+{
+    "name": "root/game",
+    "authors": [
+        {
+            "name": "pawwwloff",
+            "email": "pawwwloff@yandex.ru"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"vendor\\core\\": "vendor/core",
+    		"app\\": "app"
+    	}
+    }
+}
