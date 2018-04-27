@@ -2,9 +2,9 @@
 
 return array(
 		"Host" => "localhost",
-		"Login" => "root",
-		"Password" => "qwer1234",
-		"Name" => "xiag",
+		"Login" => "****",
+		"Password" => "****",
+		"Name" => "****",
 		"Charset" => "utf8",
 		"opt" => array(
 				\PDO::ATTR_ERRMODE            => \PDO::ERRMODE_EXCEPTION,
